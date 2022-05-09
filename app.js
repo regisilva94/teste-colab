@@ -1,0 +1,1 @@
+window.alert("Olá mundo 1!!")
